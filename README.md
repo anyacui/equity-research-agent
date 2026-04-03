@@ -53,11 +53,18 @@ Ticker input
 
 ## Example output
 
+<div align="center">
+
 **Input**
+
 <img src="assets/screenshot_ui.png" width="700" alt="UI" />
 
 **Output**
+
 <img src="assets/screenshot_output.png" width="700" alt="Research Note Output" />
+
+</div>
+
 ---
 
 ## Setup
