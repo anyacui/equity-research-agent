@@ -53,8 +53,11 @@ Ticker input
 
 ## Example output
 
-<img src="assets/uber_screenshot.png" width="600" alt="UBER Research Note" />
+**Input**
+<img src="assets/screenshot_ui.png" width="700" alt="UI" />
 
+**Output**
+<img src="assets/screenshot_output.png" width="700" alt="Research Note Output" />
 ---
 
 ## Setup
