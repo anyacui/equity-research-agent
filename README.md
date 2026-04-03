@@ -53,7 +53,7 @@ Ticker input
 
 ## Example output
 
-![UBER Research Note](assets/uber_screenshot.png)
+<img src="assets/uber_screenshot.png" width="600" alt="UBER Research Note" />
 
 ---
 
