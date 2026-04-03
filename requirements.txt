@@ -1,0 +1,16 @@
+streamlit
+yfinance
+langchain
+langchain-classic
+langchain-openai
+langchain-community
+langchain-core
+python-dotenv
+duckduckgo-search
+ddgs
+requests
+beautifulsoup4
+pdfplumber
+plotly
+playwright
+playwright-stealth
